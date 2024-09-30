@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: black;
+}
+
+.contrainer{
+    background: #202020;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+    
+}
+
+
+.uno {
+    background: #9867b8;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.dos{
+    background: #3c3d82;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.tres{
+    background: #396d76;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.cuatro{
+    background: #39766c;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
